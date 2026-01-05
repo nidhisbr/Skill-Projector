@@ -1,0 +1,126 @@
+{
+  "categories": [
+    {
+      "name": "Artificial Intelligence (AI)",
+      "skills": [
+        "AI AWS Graduate Engineer",
+        "AI Azure Architect",
+        "AI Azure Graduate Engineer",
+        "AI GCP Graduate Engineer",
+        "AI GitHub Copilot - Eclipse",
+        "AI GitHub Copilot – IntelliJ",
+        "AI GitHub Copilot – PyCharm",
+        "AI GitHub Copilot – VSCode",
+        "AI Graduate Engineer",
+        "AI Graph Database",
+        "AI Junior Data Scientist",
+        "AI Senior Data Scientist",
+        "AI Test Engineer",
+        "AI-101 Certification for Mphasis.ai",
+        "Data Scientist"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "skills": [
+        "Cybersecurity - Architect",
+        "Cybersecurity - Data Loss Prevention",
+        "Cybersecurity - Defensive SecOps",
+        "Cybersecurity - IAM",
+        "Cybersecurity - Management",
+        "Cybersecurity - Offensive SecOps",
+        "Cybersecurity - VAPT"
+      ]
+    },
+    {
+      "name": "Red Hat",
+      "skills": [
+        "Red Hat Architect",
+        "Red Hat Certified Architect",
+        "Red Hat Certified Engineer",
+        "Red Hat Linux Administrator"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "skills": [
+        ".Net Back-End Developer",
+        ".Net Front-End Angular Developer",
+        ".Net Front-End React.js Developer",
+        ".Net Microservices Specialist",
+        ".Net REST API Engineer",
+        "DevOps Engineer",
+        "Front-end Developer - Angular",
+        "Front-end Developer - React",
+        "Full-stack Developer - .NET",
+        "Full-stack Developer - Java",
+        "Full-stack Developer - LAMP",
+        "Full-stack Developer - MEAN",
+        "Full-stack Developer - MERN",
+        "Full-stack Developer - MEVN",
+        "Full-stack Developer - Python",
+        "Java Back-End Developer",
+        "Java Cloud-Native Microservices Specialist",
+        "Java Front-End Angular Developer",
+        "Java Front-End React.js Developer",
+        "Java REST API Engineer",
+        "Java Spring Specialist"
+      ]
+    },
+    {
+      "name": "Big Data",
+      "skills": [
+        "Big Data for Data Scientist - AWS Track",
+        "Big Data for Data Scientist - GCP Track"
+      ]
+    },
+    {
+      "name": "Data Engineering",
+      "skills": [
+        "Data Engineer - AWS Track",
+        "Data Engineer - GCP Track",
+        "Data Engineering with Databricks"
+      ]
+    },
+    {
+      "name": "RPA",
+      "skills": [
+        "RPA Developer - Automation Anywhere",
+        "RPA Developer - UiPath"
+      ]
+    },
+    {
+      "name": "Testing",
+      "skills": [
+        ".Net for Test Engineers",
+        "Test Automation Engineer"
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "skills": [
+        "AWS Cloud Administrator",
+        "AWS Cloud Architect",
+        "AWS Cloud Developer",
+        "AWS Cloud Security Engineer",
+        "AWS DevOps Engineer",
+        "Azure Cloud Administrator",
+        "Azure Cloud Architect",
+        "Azure Cloud Developer",
+        "Azure Cloud Security Engineer",
+        "Azure DevOps Engineer",
+        "GCP Cloud Architect - Design & Process",
+        "GCP Cloud Architect - Infrastructure",
+        "GCP Cloud Developer",
+        "GCP Cloud Security Engineer",
+        "GCP DevOps Engineer"
+      ]
+    },
+    {
+      "name": "Software Architecture",
+      "skills": [
+        "Large-Scale Software Architecture and Design"
+      ]
+    }
+  ]
+}

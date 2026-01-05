@@ -1,0 +1,81 @@
+.navbar {
+  height: 64px;
+  padding: 0 2rem;
+  background-color: #111827;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo a {
+  color: #ffffff;
+  font-size: 1.3rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.navActions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.navLink {
+  color: #d1d5db;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.navLink:hover {
+  color: #ffffff;
+}
+
+.signupBtn {
+  background-color: #2563eb;
+  color: white;
+  padding: 0.4rem 0.9rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.signupBtn:hover {
+  background-color: #1d4ed8;
+}
+
+.userSection {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+
+/* Avatar */
+.avatar {
+  width: 36px;
+  height: 36px;
+  background-color: #2563eb;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}
+
+.username {
+  color: #e5e7eb;
+  font-size: 0.95rem;
+}
+
+.logoutBtn {
+  background: transparent;
+  border: 1px solid #374151;
+  color: #e5e7eb;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.logoutBtn:hover {
+  background-color: #374151;
+}
